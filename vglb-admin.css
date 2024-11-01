@@ -1,0 +1,49 @@
+div#vglb_preview_wrap {
+    max-width: 700px;
+}
+
+select#vglb_promotion_id, input#vglb_max_ranks, textarea#vglb_short_code{
+    max-width: 300px;
+    width: 300px;
+}
+
+.vglb_opt_wrap {
+    padding-bottom: 15px;
+}
+
+.vglb_opt_lable {
+    font-weight: bold;
+}
+
+div#vglb_max_ranks_error {
+    color: red;
+}
+
+span.vglb_radio_label {
+    padding-right: 15px;
+}
+
+.vglb_style_grey{
+    background: #dfdfdf!important;
+    background-color: #dfdfdf!important;
+    cursor: default;
+}
+
+.vglb_setup_img{
+    box-shadow: 2px 2px 4px 2px #888888;
+}
+
+.vglb_help_sect {
+    padding-bottom: 25px;
+}
+
+#vglb_help_info_wrap{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+
+.vglb_ul{
+    list-style: square;
+    margin-left: 2em;
+}
